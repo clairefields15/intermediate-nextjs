@@ -1,5 +1,4 @@
 const HomeDefault = () => {
-  return null
+	return null
 }
-
 export default HomeDefault
